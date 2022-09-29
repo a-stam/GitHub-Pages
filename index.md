@@ -1,7 +1,7 @@
 # **Aleksa Stamenkovic** <span style="font-size:smaller;">*A ~~Future~~ Software Engineer*</span>
 Hey there, Aleksa here! I am a internatinal student at UCSD studying Computer Science. I am super excited you are visiting my personal page!
 
-[GitHub](https://github.com/a-stam)
+[My GitHub Page](https://github.com/a-stam)
 
 <br>
 
@@ -11,6 +11,7 @@ Hey there, Aleksa here! I am a internatinal student at UCSD studying Computer Sc
 - [Personal Moto](#personal-moto)
 - [Top 3 favorite programming languages](#top-3-favorite-programming-languages)
 - [Favorite code I wrote:](#favorite-code-i-wrote)
+- [TODOs Fall 2022](#todos-fall-2022)
 
 <br>
 
@@ -37,6 +38,13 @@ while (true) {
     }
 }
 ```
+
+<br>
+
+# TODOs Fall 2022
+- [x] Find an aparment
+- [ ] Update the resume
+- [ ] Apply for internships
 
 <br>
 
