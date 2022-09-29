@@ -26,8 +26,6 @@ Hey there, Aleksa here! I am a internatinal student at UCSD studying Computer Sc
 
 <br>
 
-
-
 # Favorite code I wrote:
 ```java
 Coffee coffee = new Coffee()
@@ -42,4 +40,4 @@ while (true) {
 
 <br>
 
-<ins>[See My Dog Like Goat Pet](Goat.png)</ins>
+<ins>[See My Dog Like Goat Pet Here](Goat.png)</ins>
